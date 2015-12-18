@@ -1,11 +1,13 @@
 ---
-title: About
+title: Om Anders Orset
 ---
 
-Hello.
+Hei på deg.
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+Jeg studerer for tiden programmering og nettverk ved UiO.
 
-**Just write thing that matters..**
+Fra før har jeg en master i statsvitenskap og bachelorgrader i journalistikk og
+sammenliknende politikk.
 
-Enjoy!
+Jeg jobber i kommunikasjonsavdelingen i Skanska Norge og har tidligere jobbet i
+Statsbygg. Før det hadde jeg noen engasjementer som journalist.
