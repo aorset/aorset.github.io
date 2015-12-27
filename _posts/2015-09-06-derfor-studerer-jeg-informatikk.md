@@ -1,0 +1,61 @@
+---
+title: Derfor studerer jeg informatikk
+updated: 2015-09-06 23:00
+---
+
+Det at jeg i en alder av 30 år har satt meg tilbake på skolebenken fortjener forklaring.
+
+Ettersom mennesker helst vil ha en historie å forholde seg til, skal jeg prøve å gi noen alternative forklaringer på hvorfor jeg går tilbake til skolen. Så får du selv velge hvilken.
+
+Å realisere seg selv
+Et ofte brukt perspektiv på jobb og karriere er at man i løpet av barndommen får et bilde av eget potensiale som man
+ønsker å realisere gjennom yrkesvalget.
+
+Man prøver seg frem i ulike jobber og i 20-årene og utvikler og spesialiserer seg i 30-årene. Dette er de mest produktive årene i et yrkesliv. Etter dette handler alt om å beholde posisjonen man har opparbeidet seg og satt på spissen unngå at de unge og nyutdannede tar over.
+Her snakker vi om et lineært syn på livet der man kan regne med at alt går i en oppadgående trend frem til det begynner å falle når man nærmer seg pensjonsalder.
+
+Relatert til dette er tanken om at selvbildet er utslagsgivende. Folk velger yrker der de tror de har evner til å lykkes. Mange jeg har snakket med velger bort matematikk og realfag fordi de har dårlig erfaring med det.
+
+Selv hadde jeg kun ett år med matematikk på videregående og måtte ta eksamen som privatist i voksen alder for å komme inn på studiet i informatikk. Jeg har alltid hatt tro på at jeg kan beherske
+matematikk, jeg hadde bare andre interesser mens jeg gikk på videregående.
+
+Man må ta en test hvor testerne analyserer deg og gir deg en "type" som man skal realisere. Ifølge personlighetstestene tenderer jeg i retning introvert, abstrakt tenkende, rasjonell og planleggende (INTJ).
+
+Men jeg vet også at jeg kan være utadvendt og ha behov for å treffe andre mennesker, bli berørt eller ikke ville planlegge alt hele tiden. Jeg liker ikke å tro at personligheter eller verdisett er statiske og uforanderlige eller lukke folk inn i båser. For meg er det åpenbart at det er så store variasjoner innad i de typene som personlighetstestene graver frem at det hele blir omtrent meningsløst.
+
+Kaosteorien
+Et annet perspektiv er at livet og det som skjer er en serie med tilfeldigheter. "Kaosteorien" sier at en ørliten endring i startbetingelsene i en pendel endrer hele det resterende forløpet.
+Hvis man skal følge denne teorien, er det meste tilfeldig og planlegging fånyttes. Veldig mikroskopiske ting kan få store utslag. Kanskje fikk du ikke den jobben fordi intervjueren var i dårlig humør den dagen. Kanskje slo dama opp med deg etter en situasjon som oppsto helt tilfeldig. Det beste man kan gjøre er å "connect the dots" i etterkant, som Steve Jobs sa.
+
+Interesse
+Det jeg ikke kommer utenom er at jeg alltid har hatt en spesiell interesse for datamaskiner og teknologi. På barne- og ungdomsskolen ble jeg kjent som "pc-fikseren" som kunne få maskiner på rett kjøl igjen når Windows 95 streiket. Interessen for ulike systemer var stor.
+
+Jeg var fascinert av hvordan en Amiga-maskin kunne ha langt bedre lyd og grafikk enn tilsvarende pc-maskiner på samme tid. Linux ble installert da jeg var 12 år gammel.
+
+Utviklet andre sider
+Samtidig var jeg interessert i musikk og i å utvikle "ikke-nerd"-sidene ved meg selv.
+Derfor begynte jeg på dramalinjen, begynte med breaking og jobbet som freelance-journalist ved siden av. Historiefortelling er også gøy.
+
+I Tillitsmannsordningen i Forsvaret ble jeg interessert i politikk, men hele tiden med tanken om at jeg skulle være journalist og politisk nøytral. Fra Tillitsmannsordningen gikk veien til studier i sammenliknende politikk i Bergen og til journalistikk ved Høgskulen i Volda.
+
+På veien fikk jeg med meg en mastergrad i statsvitenskap, språkferdigheter i spansk og tysk og utvekslingsopphold i Spania og Tyskland. Alt lå til rette for å jobbe som journalist med store deler av verden som nedslagsfelt.
+
+Liv og lære som journalist
+Møtet med virkeligheten som journalist var hard. Ved Høgskulen i Volda hadde de lært oss opp i presseetikk, kildekritikk og undersøkende journalistikk. Fine retningslinjer og mål å leve etter, men i nyhetsredaksjonene var det store produksjonskrav og krav til antall klikk en sak måtte generere. Da ble det enkle saker med youtube-klipp med hunder og katter. Ikke helt det jeg så for meg da jeg begynte å studere journalistikk og statsvitenskap.
+
+Et gryende teknologi-engasjement
+Det var i næringslivet som webredaktør og kommunikasjonsrådgiver jeg oppdaget det store potensialet som ligger i datateknologi og automatisering. Først i Statsbygg og så i Skanska. Ikke minst oppdaget jeg hvor gøy det var å holde på med systemer!
+
+Som webredaktør og kommunikasjonsrådgiver er utgangspunktet brukerens og forretningens behov. Jeg innså at jeg aldri vil se hele bildet med mindre jeg skaffet meg tyngre teknologisk kompetanse slik at jeg enklere kunne se hva som var gjennomførtbart.
+
+Jeg er overbevist om at det å integrere systemer og ta utgangspunkt i brukeren kan gi både samfunnet og næringslivet store innsparinger og bane vei for nye muligheter. Som webredaktør begynte jeg for eksempel å automatisere egne rutineoppgaver for å "få hodet over vannet".
+Jeg kodet også en prototype på en løsning som kunne øke kvalitet og spare arbeidstimer for konsernet generelt.
+
+Stort potensiale
+Samtidig innser jeg at potensialet er så mye større. Men man må forstå IT for å komme med løsninger. Faglig respekt er for meg å være ydmyk nok til å innse hvor det skorter på egen kompetanse. Man har sannsynligvis
+store blindsoner når man som ikke-teknolog sier "det må da være enkelt!"
+
+Programmerere og IT-avdelinger har et teknisk utgangspunkt. Studiet i programmering og nettverk gir gode kunnskaper i systemutvikling og ulike programmeringsspråk. Med min bakgrunn håper jeg ikke bare å bli en svært dyktig programmerer, jeg vil også bygge bro mellom bruker, forretningsbehov og teknologi. Så får vi se om dette blir "connecting the dots"
+i Steve Jobs sin ånd.
+
+Livet er spennende!
