@@ -54,7 +54,4 @@ Jeg kodet også en prototype på en løsning som kunne øke kvalitet og spare ar
 Samtidig innser jeg at potensialet er så mye større. Men man må forstå IT for å komme med løsninger. Faglig respekt er for meg å være ydmyk nok til å innse hvor det skorter på egen kompetanse. Man har sannsynligvis
 store blindsoner når man som ikke-teknolog sier "det må da være enkelt!"
 
-Programmerere og IT-avdelinger har et teknisk utgangspunkt. Studiet i programmering og nettverk gir gode kunnskaper i systemutvikling og ulike programmeringsspråk. Med min bakgrunn håper jeg ikke bare å bli en svært dyktig programmerer, jeg vil også bygge bro mellom bruker, forretningsbehov og teknologi. Så får vi se om dette blir "connecting the dots"
-i Steve Jobs sin ånd.
-
-Livet er spennende!
+Programmerere og IT-avdelinger har et teknisk utgangspunkt. Studiet i programmering og nettverk gir gode kunnskaper i systemutvikling og ulike programmeringsspråk. Med min bakgrunn håper jeg ikke bare å bli en svært dyktig programmerer, jeg vil også bygge bro mellom bruker, forretningsbehov og teknologi. Så får vi se om dette blir "connecting the dots".
