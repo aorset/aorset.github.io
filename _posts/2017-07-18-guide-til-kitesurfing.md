@@ -12,15 +12,87 @@ Jeg har sikret meg vind ved å bo i Barcelona-området. Det er enkelt å komme s
 Det er rundt tre flyavganger på en vanlig ukedag fra Oslo til Barcelona og dobbelt så mange i helgene. Den 3,5 timers flyturen
 er vanligvis relativt billig ettersom det er konkurranse på strekningen. SAS og Vueling flyr, og Norwegian har base på flyplassen i Barcelona.
 
+Det betyr at du uten problemer kan dra med morgenflyet og være på vannet rundt lunsjtider samme dag.
+
 ### Vindsikkert
 Innenfor en radius av 2,5 timer fra Barcelona flyplass har du spotter som dekker de fleste vindforhold.
 Er du heldig, er det vind på Castelldefels-stranden, som ligger 11 km unna flyplassen. Her er det mulig
 å kite fra kl 16.00 på hverdager i juli og august eller når som helst inkludert helger resten av året.
 
-Skulle det være offshore-vind, er det mulig å dra 2 timer sørover til El Trabucador eller Riumar.
+<script src="http://widget.windguru.cz/js/wg_widget.php" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+WgWidget({
+s: 644417, odh:0, doh:24, wj:'knots', tj:'c', waj:'m', fhours:72, lng:'en',
+params: ['WINDSPD','GUST','SMER','TMPE'],
+first_row:true,
+spotname:true,
+first_row_minfo:true,
+last_row:true,
+lat_lon:true,
+tz:true,
+sun:true,
+link_archive:false,
+link_new_window:false
+},
+'wg_target_div_644417_47276742'
+);
+//]]>
+</script>
+<div id="wg_target_div_644417_47276742"></div>
+
+Skulle det være offshore-vind i Castelldefels, er det mulig å dra 2 timer sørover til El Trabucador eller Riumar som er vendt annerledes.
+
+<script src="http://widget.windguru.cz/js/wg_widget.php" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+WgWidget({
+s: 4899, odh:0, doh:24, wj:'knots', tj:'c', waj:'m', fhours:72, lng:'en',
+params: ['WINDSPD','GUST','SMER','TMPE'],
+first_row:true,
+spotname:true,
+first_row_minfo:true,
+last_row:true,
+lat_lon:true,
+tz:true,
+sun:true,
+link_archive:false,
+link_new_window:false
+},
+'wg_target_div_4899_66817202'
+);
+//]]>
+</script>
+<div id="wg_target_div_4899_66817202"></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PW6loiytyKY" frameborder="0" allowfullscreen></iframe>
 
 Du kan også dra nordover 1 time og 50 minutter til Sant Pere Pescador. Da kan du også dra videre til Leucate
-som har en mengde kitespotter og gjerne har vind hvis det ikke er vind i Sant Pere Pescador (som for eksempel er tilfelle i skrivende stund).
+som har en mengde kitespotter og gjerne har vind hvis det ikke skulle være vind i Sant Pere Pescador (som for eksempel er tilfelle i skrivende stund).
+
+<script src="http://widget.windguru.cz/js/wg_widget.php" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+WgWidget({
+s: 48901, odh:0, doh:24, wj:'knots', tj:'c', waj:'m', fhours:72, lng:'en',
+params: ['WINDSPD','GUST','SMER','TMPE'],
+first_row:true,
+spotname:true,
+first_row_minfo:true,
+last_row:true,
+lat_lon:true,
+tz:true,
+sun:true,
+link_archive:false,
+link_new_window:false
+},
+'wg_target_div_48901_42346599'
+);
+//]]>
+</script>
+<div id="wg_target_div_48901_42346599"></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RFjF3DGuKaY" frameborder="0" allowfullscreen></iframe>
 
 Jeg har tegnet inn spottene på dette kartet:
 
@@ -58,11 +130,6 @@ I Castelldefels, som jeg anbefaler, er det gratis å parkere hvis du parkerer p�
 
 Merk at det er vanskelig å finne parkering i helgene i Castelldefels etter klokken 20. Det er gratis å parkere på kveldstid og i tillegg har du effekten med "helge-turismen" fra Barcelona og
 restaurantbesøk.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RFjF3DGuKaY" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PW6loiytyKY" frameborder="0" allowfullscreen></iframe>
 
 ### En merknad for cøliakere
 Selv er jeg cøliaker og må ha glutenfri mat. Dette er det enkelt å finne i Spania generelt. Virker som restaurantbransjen har vært på kurs. De har nesten alltid glutenfrie alternativer.
