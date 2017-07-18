@@ -17,7 +17,7 @@ Det betyr at du uten problemer kan dra med morgenflyet og være på vannet rundt
 ### Vindsikkert
 Innenfor en radius av 2,5 timer fra Barcelona flyplass har du spotter som dekker de fleste vindforhold.
 Er du heldig, er det vind på Castelldefels-stranden (<a href="http://old.windguru.cz/int/index.php?sc=644417" target="_newWindow">vindvarsel</a>), som ligger 11 km unna flyplassen. Her er det mulig
-å kite fra kl 16.00 på hverdager i juli og august eller når som helst inkludert helger resten av året.
+å kite fra kl 16.00 på hverdager i juli og august eller når som helst inkludert helger resten av året. Du kan også <a href="http://escolagarbi.com">leie utstyr her</a>.
 
 Skulle det være offshore-vind i Castelldefels, er det mulig å dra 2 timer sørover til El Trabucador (<a href="http://old.windguru.cz/int/index.php?sc=4899" target="_newWindow">vindvarsel</a>) eller Riumar (<a href="old.windguru.cz/int/index.php?sc=4904" target="_newWindow">vindvarsel</a>) som er vendt annerledes.
 
@@ -69,3 +69,5 @@ restaurantbesøk.
 Selv er jeg cøliaker og må ha glutenfri mat. Dette er det enkelt å finne i Spania generelt. Virker som restaurantbransjen har vært på kurs. De har nesten alltid glutenfrie alternativer.
 I Frankrike må man derimot forklare hva gluten er (hvete, rug, bygg og havre), og stort sett har de ingenting å tilby. Man må i spesialbutikker eller ta til takke med
 salater. Det gir ikke nok karbohydrater hvis man skal kitesurfe hele dagen. Men er det vind, er det vind, så da er det bare å smøre godt med matpakke og dra på ekspedisjon inn i Frankrike.
+
+Hvis du har spørsmål om kiting i Katalonia eller føler det er noe som mangler i denne guiden, kan du gjerne sende meg en mail på <a href="mailto:post@andersorset.com">post@andersorset.com</a>.
