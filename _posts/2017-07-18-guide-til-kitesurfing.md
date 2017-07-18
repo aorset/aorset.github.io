@@ -16,81 +16,15 @@ Det betyr at du uten problemer kan dra med morgenflyet og være på vannet rundt
 
 ### Vindsikkert
 Innenfor en radius av 2,5 timer fra Barcelona flyplass har du spotter som dekker de fleste vindforhold.
-Er du heldig, er det vind på Castelldefels-stranden, som ligger 11 km unna flyplassen. Her er det mulig
+Er du heldig, er det vind på Castelldefels-stranden (<a href="http://old.windguru.cz/int/index.php?sc=644417" target="_newWindow">vindvarsel</a>), som ligger 11 km unna flyplassen. Her er det mulig
 å kite fra kl 16.00 på hverdager i juli og august eller når som helst inkludert helger resten av året.
 
-<script src="http://widget.windguru.cz/js/wg_widget.php" type="text/javascript"></script>
-<script language="JavaScript" type="text/javascript">
-//<![CDATA[
-WgWidget({
-s: 644417, odh:0, doh:24, wj:'knots', tj:'c', waj:'m', fhours:72, lng:'en',
-params: ['WINDSPD','GUST','SMER','TMPE'],
-first_row:true,
-spotname:true,
-first_row_minfo:true,
-last_row:true,
-lat_lon:true,
-tz:true,
-sun:true,
-link_archive:false,
-link_new_window:false
-},
-'wg_target_div_644417_47276742'
-);
-//]]>
-</script>
-<div id="wg_target_div_644417_47276742"></div>
-
-Skulle det være offshore-vind i Castelldefels, er det mulig å dra 2 timer sørover til El Trabucador eller Riumar som er vendt annerledes.
-
-<script src="http://widget.windguru.cz/js/wg_widget.php" type="text/javascript"></script>
-<script language="JavaScript" type="text/javascript">
-//<![CDATA[
-WgWidget({
-s: 4899, odh:0, doh:24, wj:'knots', tj:'c', waj:'m', fhours:72, lng:'en',
-params: ['WINDSPD','GUST','SMER','TMPE'],
-first_row:true,
-spotname:true,
-first_row_minfo:true,
-last_row:true,
-lat_lon:true,
-tz:true,
-sun:true,
-link_archive:false,
-link_new_window:false
-},
-'wg_target_div_4899_66817202'
-);
-//]]>
-</script>
-<div id="wg_target_div_4899_66817202"></div>
+Skulle det være offshore-vind i Castelldefels, er det mulig å dra 2 timer sørover til El Trabucador (<a href="old.windguru.cz/int/index.php?sc=4899" target="_newWindow">vindvarsel</a>) eller Riumar (<a href="old.windguru.cz/int/index.php?sc=4904" target="_newWindow">vindvarsel</a>) som er vendt annerledes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PW6loiytyKY" frameborder="0" allowfullscreen></iframe>
 
-Du kan også dra nordover 1 time og 50 minutter til Sant Pere Pescador. Da kan du også dra videre til Leucate
+Du kan også dra nordover 1 time og 50 minutter til Sant Pere Pescador  (<a href="old.windguru.cz/int/index.php?sc=48901" target="_newWindow">vindvarsel</a>). Da kan du også dra videre til Leucate (<a href="old.windguru.cz/int/index.php?sc=500992" target="_newWindow">vindvarsel</a>)
 som har en mengde kitespotter og gjerne har vind hvis det ikke skulle være vind i Sant Pere Pescador (som for eksempel er tilfelle i skrivende stund).
-
-<script src="http://widget.windguru.cz/js/wg_widget.php" type="text/javascript"></script>
-<script language="JavaScript" type="text/javascript">
-//<![CDATA[
-WgWidget({
-s: 48901, odh:0, doh:24, wj:'knots', tj:'c', waj:'m', fhours:72, lng:'en',
-params: ['WINDSPD','GUST','SMER','TMPE'],
-first_row:true,
-spotname:true,
-first_row_minfo:true,
-last_row:true,
-lat_lon:true,
-tz:true,
-sun:true,
-link_archive:false,
-link_new_window:false
-},
-'wg_target_div_48901_42346599'
-);
-//]]>
-</script>
-<div id="wg_target_div_48901_42346599"></div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RFjF3DGuKaY" frameborder="0" allowfullscreen></iframe>
 
