@@ -6,7 +6,7 @@ updated: 2017-07-18 09:00
 Mens jeg skriver dette lengter jeg nesten litt etter en vindstille dag. Kroppen begynner å bli sliten, men er det vind, er det vind.
 Jeg er på utflukt til fransk Katalonia, også kalt "Pyrènèes-Orientales". Det er vind og jeg skal ut på vannet igjen.
 
-Jeg har sikret meg vind ved å ha Barcelona-området som base. Det er enkelt å komme seg dit med fly og det er vind i alle fasonger i en radius av maks 2,5 timer. Likevel er det stort sett bare lokale som kiter i Katalonia-området, med unntak av noen få tyskere og franskmenn (flere franskmenn på den franske siden av grensen, naturlig nok).
+Jeg har sikret meg vind ved å ha Barcelona-området som base. Det er enkelt å komme seg dit med fly og det er vind i alle fasonger i en radius av maks 2,5 timer. Likevel er det stort sett bare lokale som kiter i Katalonia-området, ihvertfall på spansk side. Har truffet noen få tyskere, og noen franskmenn (flere franskmenn på den franske siden av grensen, naturlig nok).
 
 ### Mange flybilletter
 Det er rundt tre flyavganger på en vanlig ukedag fra Oslo til Barcelona og dobbelt så mange i helgene. Den 3,5 timers flyturen
