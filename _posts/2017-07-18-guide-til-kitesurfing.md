@@ -17,7 +17,7 @@ Det betyr at du uten problemer kan dra med morgenflyet og være på vannet rundt
 ### Vindsikkert
 Innenfor en radius av 2,5 timer fra Barcelona flyplass har du spotter som dekker de fleste vindforhold.
 Er du heldig, er det vind på Castelldefels-stranden (<a href="http://old.windguru.cz/int/index.php?sc=644417" target="_newWindow">vindvarsel</a>), som ligger 11 km unna flyplassen. Her er det mulig
-å kite fra kl 16.00 på hverdager i juli og august eller når som helst inkludert helger resten av året. Du kan også <a href="http://escolagarbi.com">leie utstyr her</a>.
+å kite fra kl 16.00 på hverdager i juli og august eller når som helst inkludert helger resten av året. Du kan også <a href="http://escolagarbi.com">leie utstyr her</a>. Merk at man må ha en forsikringsordning som koster 33 EUR for å kite i sommerperioden. Kommunen har hyrt inn lokale kiteinstruktører fra <a href="http://escolagarbi.com">Escola Garbi</a> som henter deg med skuter hvis vinden dør eller noe skulle skje. 
 
 Skulle det være offshore-vind i Castelldefels, er det mulig å dra 2 timer sørover til El Trabucador (<a href="http://old.windguru.cz/int/index.php?sc=4899" target="_newWindow">vindvarsel</a>) eller Riumar (<a href="old.windguru.cz/int/index.php?sc=4904" target="_newWindow">vindvarsel</a>) som er vendt annerledes.
 
