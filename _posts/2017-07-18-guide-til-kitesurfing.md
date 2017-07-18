@@ -6,8 +6,7 @@ updated: 2017-07-18 09:00
 Mens jeg skriver dette lengter jeg nesten litt etter en vindstille dag. Kroppen begynner å bli sliten, men er det vind, er det vind.
 Jeg er i fransk Katalonia, også kalt "Pyrènèes-Orientales", og det er vind og jeg skal ut på vannet igjen.
 
-Jeg har sikret meg vind ved å bo i Barcelona-området. Det er enkelt å komme seg dit med fly. Likevel er det stort sett bare lokale som kiter på den spanske siden av grensen
-- med unntak av noen tyskere og franskmenn innimellom.
+Jeg har sikret meg vind ved å bo i Barcelona-området. Det er enkelt å komme seg dit med fly. Likevel er det stort sett bare lokale som kiter på den spanske siden av grensen, med unntak av noen tyskere og franskmenn innimellom.
 
 ### Mange flybilletter
 Det er rundt tre flyavganger på en vanlig ukedag fra Oslo til Barcelona og dobbelt så mange i helgene. Den 3,5 timers flyturen
