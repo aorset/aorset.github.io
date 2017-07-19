@@ -50,7 +50,7 @@ Det er dyrt å parkere i Barcelona, med mindre man vet hvor. Man kan parkere gra
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1500370555213!6m8!1m7!1sIgXvDHT6XVBAfL78nAxYLw!2m2!1d41.39751490472408!2d2.187034543695006!3f58.305944876504604!4f-11.400823963295409!5f1.1924812503605782" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-Man kan også parkere gratis i Sarrià / Sant Gervasi-området og ta taxi ned til sentrum. Det vil være langt billigere enn å betale 60 euro døgnet i parkeringshus.
+Ikke legg verdisaker igjen i bilen. Man kan også parkere gratis i det mer snobbete Sarrià / Sant Gervasi-området og ta taxi ned til sentrum. Det vil være langt billigere enn å betale 60 euro døgnet i parkeringshus.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1500371044101!6m8!1m7!1sofQidw-A5xyjLAzHr2vEfQ!2m2!1d41.41251703587231!2d2.130554337130036!3f169.390698913819!4f-28.93051625499355!5f1.1924812503605782" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -60,12 +60,21 @@ sannsynligheten er stor for at bilen blir tauet bort. Hvis det skjer, har den sa
 Sarrià og Sant Gervasier forøvrig rolige og fine områder det er mindre kavete å oppholde seg i enn nede på Barceloneta-området eller la Rambla.
 Her er det også mulig å finne gratis parkering (gateparkering med hvit markering), som du ser av Google Maps over.
 
-I Castelldefels, som jeg anbefaler, er det gratis å parkere hvis du parkerer på stranden.
+I Castelldefels, som jeg anbefaler, er det gratis å parkere hvis du parkerer på stranden. Ta ut verdisakene før du parkerer.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d746.7318200946982!2d1.9784927592885475!3d41.265332402520414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x53ca43ca865c599e!2sParking+Castefa!5e1!3m2!1sno!2sfr!4v1500371401157" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 Merk at det er vanskelig å finne parkering i helgene i Castelldefels etter klokken 20. Det er gratis å parkere på kveldstid og i tillegg har du effekten med "helge-turismen" fra Barcelona og
 restaurantbesøk.
+
+### Leie av utstyr
+Etter at jeg la ut guiden, fikk jeg spørsmål på Facebook om det gikk an å leie utstyr og hva det koster. Legger inn noen lenker:
+
+<a href="http://www.lacentraldelkite.com/alquiler-de-material-de-kitesurf/">La Central Del Kite</a> (El Trabucador, vegg i vegg med strandbaren)
+
+<a href="http://escolagarbi.com/alquiler-kitesurf-barcelona/">Escola Garbi</a> (Platja Castelldefels)
+
+<a href="https://kiteexperience.com/es/kitesurf/alquiler/">Kite Experience</A> (Sant Pere Pescador)
 
 ### En merknad for cøliakere
 Selv er jeg cøliaker og må ha glutenfri mat. Dette er det enkelt å finne i Spania generelt. Virker som restaurantbransjen har vært på kurs. De har nesten alltid glutenfrie alternativer.
