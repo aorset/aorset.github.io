@@ -55,7 +55,7 @@ Ikke legg verdisaker igjen i bilen. Man kan også parkere gratis i det mer snobb
 <iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1500371044101!6m8!1m7!1sofQidw-A5xyjLAzHr2vEfQ!2m2!1d41.41251703587231!2d2.130554337130036!3f169.390698913819!4f-28.93051625499355!5f1.1924812503605782" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 Merk at hvite parkeringsplasser er gratis. Hvis parkeringsplassene er blå eller grønne, må du betale. Hvis det er gule markeringer, er det ikke en parkeringsplass og
-sannsynligheten er stor for at bilen blir tauet bort. Hvis det skjer, har den sannsynligvis blitt <a href="https://www.gruabcn.cat/es/recuperar-el-vehiculo/">tauet</a>.
+sannsynligheten er stor for at bilen blir <a href="https://www.gruabcn.cat/es/recuperar-el-vehiculo/">tauet</a>.
 
 Sarrià og Sant Gervasier forøvrig rolige og fine områder det er mindre kavete å oppholde seg i enn nede på Barceloneta-området eller la Rambla.
 Her er det også mulig å finne gratis parkering (gateparkering med hvit markering), som du ser av Google Maps over.
