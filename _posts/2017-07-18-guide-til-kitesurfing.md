@@ -60,9 +60,11 @@ sannsynligheten er stor for at bilen blir tauet bort. Hvis det skjer, har den sa
 Sarrià og Sant Gervasier forøvrig rolige og fine områder det er mindre kavete å oppholde seg i enn nede på Barceloneta-området eller la Rambla.
 Her er det også mulig å finne gratis parkering (gateparkering med hvit markering), som du ser av Google Maps over.
 
-I Castelldefels, som jeg anbefaler, er det gratis å parkere hvis du parkerer på stranden. Ta ut verdisakene før du parkerer.
+I Castelldefels, som jeg anbefaler, er det gratis å parkere hvis du parkerer på stranden. Ta ut verdisakene før du forlater bilen. 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d746.7318200946982!2d1.9784927592885475!3d41.265332402520414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x53ca43ca865c599e!2sParking+Castefa!5e1!3m2!1sno!2sfr!4v1500371401157" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+En liten notis om tyveri. Traff en på stranden som hadde lagt hydrofoil-brettet sitt synlig i bilen. Ruten ble knust og brettet stjålet mens han var ute på vannet med sitt andre brett. Også jeg mistet et brett. Mistet det på vannet før noen i badeområdet fant og tok det. Heller ikke livvaktene på stranden er hellige for tyvene. En ble en gang frastjålet en sykkel som sto rett ved henne. En annen gang ble vaktene frastjålet en hjertestarter.
 
 Merk at det er vanskelig å finne parkering i helgene i Castelldefels etter klokken 20. Det er gratis å parkere på kveldstid og i tillegg har du effekten med "helge-turismen" fra Barcelona og
 restaurantbesøk.
@@ -74,7 +76,13 @@ Etter at jeg la ut guiden, fikk jeg spørsmål på Facebook om det gikk an å le
 
 <a href="http://escolagarbi.com/alquiler-kitesurf-barcelona/">Escola Garbi</a> (Platja Castelldefels)
 
-<a href="https://kiteexperience.com/es/kitesurf/alquiler/">Kite Experience</A> (Sant Pere Pescador)
+<a href="https://kiteexperience.com/es/kitesurf/alquiler/">Kite Experience</a> (Sant Pere Pescador)
+
+Finnes også noe som heter "La Tarifa Plana Del Deporte" som muligens kan være interessant for noen. 99 EUR i måneden for å leie alt av  sportsutstyr (inkl kiteutstyr) over hele Spania. Aldri prøvd det, men legger ved en lenke:
+
+<a href="https://www.latarifaplanadeldeporte.com">La Tarifa Plana Del Deporte</a>
+
+Følg de lenkene, så får du info fra rett kilde.
 
 ### En merknad for cøliakere
 Selv er jeg cøliaker og må ha glutenfri mat. Dette er det enkelt å finne i Spania generelt. Virker som restaurantbransjen har vært på kurs. De har nesten alltid glutenfrie alternativer.
