@@ -78,7 +78,9 @@ Etter at jeg la ut guiden, fikk jeg spørsmål på Facebook om det gikk an å le
 
 <a href="https://kiteexperience.com/es/kitesurf/alquiler/">Kite Experience</a> (Sant Pere Pescador)
 
-Finnes også noe som heter "La Tarifa Plana Del Deporte" som muligens kan være interessant for noen. 99 EUR i måneden for å leie alt av  sportsutstyr (inkl kiteutstyr) over hele Spania. Aldri prøvd det, men legger ved en lenke:
+Snakket med en kite-utleier i Sant Pere Pescador, og han sa at det kunne være vanskelig å få leid utstyr om sommeren fordi det var stor etterspørsel. Anbefales altså å sjekke på forhånd før man baserer seg på leie. 
+
+Finnes forøvrig noe som heter "La Tarifa Plana Del Deporte" som muligens kan være interessant for noen. 99 EUR i måneden for å leie alt av  sportsutstyr (inkl kiteutstyr) over hele Spania. Aldri prøvd det, men legger ved en lenke:
 
 <a href="https://www.latarifaplanadeldeporte.com">La Tarifa Plana Del Deporte</a>
 
