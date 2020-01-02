@@ -2,7 +2,7 @@
 title: Kontakt Anders Orset
 ---
 
-<p>Jeg kan nås på epost <a href="mailto:post@andersorset.com">post@andersorset.com</a>.
+<p>Jeg kan nås på email <a href="mailto:post@andersorset.com">post@andersorset.com</a>.
   Jeg er også tilgjengelig på <a href="http://twitter.com/andersorset">twitter</a>,
   <a href="http://no.linkedin.com/in/andersorset">linkedin</a> og
   <a href="https://github.com/aorset">github</a>.</p>
